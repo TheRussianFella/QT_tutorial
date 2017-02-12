@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/clear.png</file>
+        <file>Images/move.png</file>
+        <file>Images/openDialog.png</file>
+        <file>Images/pointer_4106.png</file>
+        <file>Images/polygon.png</file>
+        <file>Images/polyline.png</file>
+        <file>Images/settings.png</file>
+    </qresource>
+</RCC>
